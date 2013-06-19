@@ -59,9 +59,13 @@ function updateResult(e) {
 			var keyArr = Object.keys(jsonObject[i]);
 
 			for (var j = keyArr.length - 1; j >= 0; j--) {
+
 				var haystack = jsonObject[i][keyArr[j]].toLowerCase();
 				var key = searchString.toLowerCase();
-				matchedBool = (haystack.indexOf(key) >= 0);
+
+				var regex = new RegExp('.*' + key + '.*\\i');
+				matchedBool = regex.test(haystack);
+				// matchedBool = (haystack.indexOf(key) >= 0);
 				if (matchedBool === true) {
 					resultSet.push(jsonObject[i]);
 					break;
@@ -76,8 +80,7 @@ function updateResult(e) {
 
 function renderResult(result) {
 	resultListing.innerHTML = "";
-	console.log(result.length);
 	for (var i = result.length - 1; i >= 0; i--) {
-		resultListing.innerHTML += ('<div>' + result[i]['Address'] + ' &nbsp;&nbsp;&nbsp;&nbsp; ' + result[i]['Building Name'] + '</div>');
+		resultListing.innerHTML += ('a');
 	}
 }

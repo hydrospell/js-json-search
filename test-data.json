@@ -43,7 +43,7 @@
 		"No": "6",
 		"Unit": "S188",
 		"Building Name": "Airmail Transit Centre",
-		"Address": "21 North Perimeter Road, Airmail Transit Centre,, Singapore 819118",
+		"Address": "21 North Perimeter Road, Airmail Transit Centre, Singapore 819118",
 		"lat": "1.382501",
 		"lon": "103.997074"
 	},
@@ -139,7 +139,7 @@
 		"No": "18",
 		"Unit": "S561",
 		"Building Name": "Balestier Estate PO",
-		"Address": "Blk 74 Whampoa Drive,, #01-344,, Singapore 320074",
+		"Address": "Blk 74 Whampoa Drive, #01-344, Singapore 320074",
 		"lat": "1.325087",
 		"lon": "103.8581616"
 	},
@@ -291,7 +291,7 @@
 		"No": "37",
 		"Unit": "S560",
 		"Building Name": "Bt Batok MRT",
-		"Address": "10 Bukit Batok Central, Level 1 (Behind NTUC Fairprice),, Singapore 659958",
+		"Address": "10 Bukit Batok Central, Level 1 (Behind NTUC Fairprice), Singapore 659958",
 		"lat": "1.3493415",
 		"lon": "103.7499156"
 	},
@@ -307,7 +307,7 @@
 		"No": "39",
 		"Unit": "S298",
 		"Building Name": "Bt Panjang Bus Int'chge",
-		"Address": "15 Petir Road,, Singapore 678270",
+		"Address": "15 Petir Road, Singapore 678270",
 		"lat": "1.378308",
 		"lon": "103.763892"
 	},
@@ -419,7 +419,7 @@
 		"No": "53",
 		"Unit": "S512",
 		"Building Name": "Bukit Timah PO",
-		"Address": "20 Toh Yi Drive Bukit Timah Community Club,, #02-02,, Singapore 596569",
+		"Address": "20 Toh Yi Drive Bukit Timah Community Club, #02-02, Singapore 596569",
 		"lat": "1.340632",
 		"lon": "103.771837"
 	},
@@ -451,7 +451,7 @@
 		"No": "57",
 		"Unit": "S583",
 		"Building Name": "Central Public Library",
-		"Address": "100 Victoria Street,, Singapore 188064",
+		"Address": "100 Victoria Street, Singapore 188064",
 		"lat": "1.297513",
 		"lon": "103.853937"
 	},
@@ -459,7 +459,7 @@
 		"No": "58",
 		"Unit": "S555",
 		"Building Name": "Centrepoint Shopping Centre",
-		"Address": "176 Orchard Road, Basement 1,, Singapore 238843",
+		"Address": "176 Orchard Road, Basement 1, Singapore 238843",
 		"lat": "1.3019594",
 		"lon": "103.8398305"
 	},
@@ -467,7 +467,7 @@
 		"No": "59",
 		"Unit": "S557",
 		"Building Name": "Century Sq Shopping Centre",
-		"Address": "2 Tampines Central 5,, Singapore 529509",
+		"Address": "2 Tampines Central 5, Singapore 529509",
 		"lat": "1.352739",
 		"lon": "103.9438363"
 	},
@@ -499,7 +499,7 @@
 		"No": "63",
 		"Unit": "S416",
 		"Building Name": "Changi Airport T1",
-		"Address": "Departure Hall,, Singapore 819642",
+		"Address": "Departure Hall, Singapore 819642",
 		"lat": "1.3590967",
 		"lon": "103.9904716"
 	},
@@ -907,7 +907,7 @@
 		"No": "114",
 		"Unit": "S558",
 		"Building Name": "Hougang HDB Branch Office",
-		"Address": "814 Hougang Avenue 10,, #01-500,, Singapore 530814",
+		"Address": "814 Hougang Avenue 10, #01-500, Singapore 530814",
 		"lat": "1.3728419",
 		"lon": "103.8935524"
 	},
@@ -915,7 +915,7 @@
 		"No": "115",
 		"Unit": "S543",
 		"Building Name": "Hougang Plaza",
-		"Address": "1189 Upper Serangoon Road,, Singapore 534785",
+		"Address": "1189 Upper Serangoon Road, Singapore 534785",
 		"lat": "1.37073",
 		"lon": "103.895131"
 	},
@@ -971,7 +971,7 @@
 		"No": "122",
 		"Unit": "S584",
 		"Building Name": "Joo Koon MRT",
-		"Address": "91 Joo Koon Circle,, Singapore 629116",
+		"Address": "91 Joo Koon Circle, Singapore 629116",
 		"lat": "1.327589",
 		"lon": "103.678432"
 	},
@@ -987,7 +987,7 @@
 		"No": "124",
 		"Unit": "S587",
 		"Building Name": "Jurong East St 32,",
-		"Address": "Blk 303 Jurong East St 32,, Singapore 600303",
+		"Address": "Blk 303 Jurong East St 32, Singapore 600303",
 		"lat": "1.3445928",
 		"lon": "103.735187"
 	},
@@ -1051,7 +1051,7 @@
 		"No": "132",
 		"Unit": "S562",
 		"Building Name": "Jurong Town Council",
-		"Address": "Blk 255 Jurong East Street 24,, #01-303, Singapore 600255",
+		"Address": "Blk 255 Jurong East Street 24, #01-303, Singapore 600255",
 		"lat": "1.3433522",
 		"lon": "103.7390678"
 	},
@@ -1115,7 +1115,7 @@
 		"No": "140",
 		"Unit": "S556",
 		"Building Name": "Khatib MRT",
-		"Address": "201 Yishun Avenue 2,, Singapore 769092",
+		"Address": "201 Yishun Avenue 2, Singapore 769092",
 		"lat": "1.41736",
 		"lon": "103.832919"
 	},
@@ -1163,7 +1163,7 @@
 		"No": "146",
 		"Unit": "S577",
 		"Building Name": "Leisure Park, Kallang",
-		"Address": "5 Stadium Walk, Leisure Park Kallang,, Singapore 397693",
+		"Address": "5 Stadium Walk, Leisure Park Kallang, Singapore 397693",
 		"lat": "1.3023579",
 		"lon": "103.876445"
 	},
@@ -1339,7 +1339,7 @@
 		"No": "168",
 		"Unit": "S553",
 		"Building Name": "Orchard MRT Station",
-		"Address": "437 Orchard Road,, Singapore 238878",
+		"Address": "437 Orchard Road, Singapore 238878",
 		"lat": "1.303287",
 		"lon": "103.8323238"
 	},
@@ -1451,7 +1451,7 @@
 		"No": "182",
 		"Unit": "S300",
 		"Building Name": "Pioneer Road Post Office",
-		"Address": "51 Soon Lee Road , Unit 01/13/14/15, SCAL Recreation Centre,, Singapore 628088",
+		"Address": "51 Soon Lee Road , Unit 01/13/14/15, SCAL Recreation Centre, Singapore 628088",
 		"lat": "1.332606",
 		"lon": "103.6991369"
 	},
@@ -1459,7 +1459,7 @@
 		"No": "183",
 		"Unit": "S554",
 		"Building Name": "PoMo",
-		"Address": "1 Selegie Road,, Singapore 188306",
+		"Address": "1 Selegie Road, Singapore 188306",
 		"lat": "1.3001259",
 		"lon": "103.849316"
 	},
@@ -1611,7 +1611,7 @@
 		"No": "202",
 		"Unit": "S546",
 		"Building Name": "Sembawang HDB Branch Office",
-		"Address": "Blk 355A Sembawang Way,, Singapore 750355",
+		"Address": "Blk 355A Sembawang Way, Singapore 750355",
 		"lat": "1.449661",
 		"lon": "103.8186264"
 	},
@@ -1643,7 +1643,7 @@
 		"No": "206",
 		"Unit": "S545",
 		"Building Name": "Sembawang Shopping Centre",
-		"Address": "604 Sembawang Road,, Singapore 758459",
+		"Address": "604 Sembawang Road, Singapore 758459",
 		"lat": "1.441872",
 		"lon": "103.824824"
 	},
@@ -1675,7 +1675,7 @@
 		"No": "210",
 		"Unit": "S589",
 		"Building Name": "Serangoon Central Drive,",
-		"Address": "Blk 266 Serangoon Central Drive,, Singapore 550266",
+		"Address": "Blk 266 Serangoon Central Drive, Singapore 550266",
 		"lat": "1.353432",
 		"lon": "103.871399"
 	},
@@ -1723,7 +1723,7 @@
 		"No": "216",
 		"Unit": "S242",
 		"Building Name": "Shaw Centre",
-		"Address": "1 Scotts Road, Level 1,, Singapore 228208",
+		"Address": "1 Scotts Road, Level 1, Singapore 228208",
 		"lat": "1.3067056",
 		"lon": "103.8317702"
 	},
@@ -1803,7 +1803,7 @@
 		"No": "226",
 		"Unit": "S247",
 		"Building Name": "Sun Plaza",
-		"Address": "30 Sembawang Drive, Level 3,, Singapore 757713",
+		"Address": "30 Sembawang Drive, Level 3, Singapore 757713",
 		"lat": "1.4486542",
 		"lon": "103.8201772"
 	},
@@ -1811,7 +1811,7 @@
 		"No": "227",
 		"Unit": "S276",
 		"Building Name": "Sun Plaza PO",
-		"Address": "30 Sembawang Drive,, Singapore 757713",
+		"Address": "30 Sembawang Drive, Singapore 757713",
 		"lat": "1.448417",
 		"lon": "103.8191669"
 	},
@@ -1851,7 +1851,7 @@
 		"No": "232",
 		"Unit": "S551",
 		"Building Name": "Tampines Central Community Complex",
-		"Address": "Blk 866A Tampines St 83,, Singapore 521866",
+		"Address": "Blk 866A Tampines St 83, Singapore 521866",
 		"lat": "1.355507",
 		"lon": "103.934462"
 	},
@@ -2019,7 +2019,7 @@
 		"No": "253",
 		"Unit": "S559",
 		"Building Name": "Tiong Bahru Plaza",
-		"Address": "302 Tiong Bahru Road, Central Plaza,, Singapore 168732",
+		"Address": "302 Tiong Bahru Road, Central Plaza, Singapore 168732",
 		"lat": "1.3418329",
 		"lon": "103.8608764"
 	},
