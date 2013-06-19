@@ -11,6 +11,10 @@ if (window.XMLHttpRequest) {
 	request = new ActiveXObject("Microsoft.XMLHTTP");
 }
 
+RegExp.escape= function(s) {
+    return s.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+};
+
 
 
 
@@ -74,6 +78,6 @@ function renderResult(result) {
 	resultListing.innerHTML = "";
 	console.log(result.length);
 	for (var i = result.length - 1; i >= 0; i--) {
-		resultListing.innerHTML += ('<div>' + result[i]['artist'] + ' &nbsp;&nbsp;&nbsp;&nbsp; ' + result[i]['event'] + '</div>');
+		resultListing.innerHTML += ('<div>' + result[i]['Address'] + ' &nbsp;&nbsp;&nbsp;&nbsp; ' + result[i]['Building Name'] + '</div>');
 	}
 }
