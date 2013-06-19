@@ -1,4 +1,4 @@
-var jsonFilePath = 'bookings.json';
+var jsonFilePath = 'test-data.json';
 
 var searchField = document.getElementById('searchField');
 var resultListing = document.getElementById('resultListing');
