@@ -79,8 +79,9 @@ function updateResult(e) {
 }
 
 function renderResult(result) {
-	resultListing.innerHTML = "";
+	var htmlString = "";
 	for (var i = result.length - 1; i >= 0; i--) {
-		resultListing.innerHTML += ('a');
+		htmlString += ('<div>' + result[i]['Address'] + ' &nbsp;&nbsp;&nbsp;&nbsp; ' + result[i]['Building Name'] + '</div>');
 	}
+	resultListing.innerHTML = htmlString;
 }
