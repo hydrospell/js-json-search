@@ -1,4 +1,5 @@
-var jsonFilePath = 'test-data.json';
+var jsonFilePath = 'bookings.json';
+
 var searchField = document.getElementById('searchField');
 var resultListing = document.getElementById('resultListing');
 var contentTag = '[[[content]]]';
@@ -59,7 +60,7 @@ function updateResult(e) {
 				matchedBool = (haystack.indexOf(key) >= 0);
 				if (matchedBool === true) {
 					resultSet.push(jsonObject[i]);
-					continue;
+					break;
 				}
 			}
 
@@ -73,6 +74,6 @@ function renderResult(result) {
 	resultListing.innerHTML = "";
 	console.log(result.length);
 	for (var i = result.length - 1; i >= 0; i--) {
-		resultListing.innerHTML += ('<div>' + result[i]['Building Name'] + '</div>');
+		resultListing.innerHTML += ('<div>' + result[i]['artist'] + ' &nbsp;&nbsp;&nbsp;&nbsp; ' + result[i]['event'] + '</div>');
 	}
 }
